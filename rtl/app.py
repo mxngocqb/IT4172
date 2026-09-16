@@ -8,9 +8,9 @@ from scipy.signal import firwin, lfilter
 # ============================================================
 # CẤU HÌNH
 # ============================================================
-FREQ_MHZ = 91
+FREQ_MHZ = 96.5
 RF_RATE = 256_000          # IQ từ RTL-SDR
-AUDIO_RATE = 32_000        # Loa
+AUDIO_RATE = 16_000        # Loa
 BLOCK_SIZE = 16_384
 GAIN = "auto"
 VOLUME = 1.5

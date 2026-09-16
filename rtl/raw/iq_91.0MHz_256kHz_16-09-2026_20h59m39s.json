@@ -1,0 +1,12 @@
+{
+  "file": "iq_91.0MHz_256kHz_16-09-2026_20h59m39s.bin",
+  "center_freq_hz": 91000000.0,
+  "freq_mhz": 91.0,
+  "sample_rate": 256000,
+  "gain": "auto",
+  "format": "uint8 interleaved IQ (I,Q,I,Q...)",
+  "bytes_per_sample": 2,
+  "num_samples": 2572288,
+  "duration_s": 10.048,
+  "recorded_at": "2026-09-16T20:59:49"
+}
